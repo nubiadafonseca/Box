@@ -1,0 +1,37 @@
+p{
+  padding-top: 100px;
+  font-style: italic;
+  font-size: 60px;
+  color: rgb(175, 69, 115);
+  font-weight: bold;
+  text-shadow: 1px 5px 3px black;
+
+  
+}
+div{
+  height: 400px;
+  width: 400px;
+
+  border-width: 20px;
+  border-style:dotted;
+  border-color:lightcoral;
+  border-radius: 30%;
+
+  background-image: url(borboleta.jpg);
+  text-align: center;
+  box-shadow: inset 25px 5px 50px 25px rgb(58, 6, 41);
+  background-size: cover;
+ 
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+
+  outline-width: 20px;
+  outline-style:groove;
+  outline-color: rgb(54, 20, 27);
+
+  margin: auto;
+  margin-top: 50px;
+
+}
